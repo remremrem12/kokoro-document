@@ -2,7 +2,7 @@
 
 ## ディレクトリ一覧
 
-- vote
+- [vote](./vote)
   - 投票内容です。
-- readme
+- [readme](./readme)
   - README内容です。

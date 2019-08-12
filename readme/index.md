@@ -107,3 +107,14 @@ VCに誰もいなくてもワラワラと集まる可能性があります。
 - 喋太郎: ?summon
 - Rythm:!p
 - tatsumaki:t!
+
+## ほかの人をお誘いする場合
+
+招待をする場合は以下のリンクから。
+
+[こころ避難所 \| DISBOARD: Discord サーバー掲示板](https://disboard.org/ja/server/596355505820270623)
+
+## Tips
+
+チャンネル切り替え等PCだとショートカットでらくちんなのでおすすめ。
+https://support.discordapp.com/hc/en-us/article_attachments/211337747/keyboard_combo_breaker.png

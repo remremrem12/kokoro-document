@@ -112,9 +112,10 @@ VCに誰もいなくてもワラワラと集まる可能性があります。
 
 招待をする場合は以下のリンクから。
 
-[こころ避難所 \| DISBOARD: Discord サーバー掲示板](https://disboard.org/ja/server/596355505820270623)
+[こころ避難所 \| DISBOARD: Discord サーバー掲示板](https://disboard.org/ja/server/596355505820270623)  
+なお、Discord側の処理でサーバーに入れない場合があります。その際には、アプリから明示的に「サーバーに参加」を選択し、「[https://discordapp.com/invite/gVUJGqq](https://discordapp.com/invite/gVUJGqq)」を指定してください。
 
 ## Tips
 
-チャンネル切り替え等PCだとショートカットでらくちんなのでおすすめ。
+PC版：チャンネル切り替え等ショートカットキーを覚えるとでらくちんなのでおすすめ。
 https://support.discordapp.com/hc/en-us/article_attachments/211337747/keyboard_combo_breaker.png

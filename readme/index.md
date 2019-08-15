@@ -56,7 +56,6 @@
 
 運用上必要と判断した場合は、VCから強制切断等行う場合がございます。（寝ちゃった時、警告後少し落ち着いてほしい時
 
-
 ## 主要チャンネルの説明
 
 ### #自己紹介（任意）
@@ -118,4 +117,4 @@ VCに誰もいなくてもワラワラと集まる可能性があります。
 ## Tips
 
 PC版：チャンネル切り替え等ショートカットキーを覚えるとでらくちんなのでおすすめ。
-https://support.discordapp.com/hc/en-us/article_attachments/211337747/keyboard_combo_breaker.png
+![ショートカットキー](https://support.discordapp.com/hc/en-us/article_attachments/211337747/keyboard_combo_breaker.png)

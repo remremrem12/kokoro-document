@@ -110,6 +110,7 @@ VCに誰もいなくてもワラワラと集まる可能性があります。
 - shovel: !sh
 - 喋太郎: ?summon
 - Rythm:!p
+- Rythm2:>p
 - tatsumaki:t!
 
 ## ほかの人をお誘いする場合

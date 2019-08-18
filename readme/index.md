@@ -105,13 +105,13 @@ VCに誰もいなくてもワラワラと集まる可能性があります。
 - フレンドのみDM許可することを推奨します
 - いきなりのDM、フレンド申請はあやしいのでBANリストに突っ込みましょう。
 
-## 各botのprefix(実際の操作は各botのヘルプ見てね)
+## 各botのhelp
 
-- shovel: !sh
-- 喋太郎: ?summon
-- Rythm:!p
-- Rythm2:>p
-- tatsumaki:t!
+- shovel: !sh help
+- 喋太郎: ?help
+- Rythm:!help
+- Rythm2:>help
+- tatsumaki:t!help
 
 ## ほかの人をお誘いする場合
 
